@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p eqregsel Estimation method for sample-selection models based on extremal quantile regressions Use eqregsel With STATA 19
