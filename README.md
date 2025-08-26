@@ -1,6 +1,8 @@
 # eqregsel
 Estimation method for sample-selection models based on extremal quantile regressions Use eqregsel With STATA 19
 
+https://www.youtube.com/watch?v=c6Eq5dfes4g
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
